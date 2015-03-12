@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-image:url(../img/fondo2.png);
+}
+
+#invitado
+{
+	opacity: 2;
+    background-color: hsla(213,33%,59%,0.7);
+    transition: all 0.2s ease-in-out;
+    transform: translate(265px, 145px) rotate(45deg);
+	background-color:#63C;
+	margin-top:10%;
+	float:left;
+	margin-left:5%;
+	height:400px;
+	width:16%;
+}
+
+#profesores
+{
+	background-color:#366;
+	margin-top:10%;
+	float:left;
+	margin-left:2%;
+	height:400px;
+	width:16%;
+}
+
+#Logo
+{
+	margin-top:2%;
+	float:left;
+	height:600px;
+	width:60%;
+}
+
+#imagen
+{
+	height:70%;
+	width:100%;
+}
+
+#imagen img
+{
+	max-height:100%;
+	max-width:100%;
+}
+#texto
+{
+	height:30%;
+	width:100%;
+}
+#texto img
+{
+	position:fixed;
+	max-height:60%;
+	max-width:60%;
+}
+#utlogo
+{
+	height:10%;
+	width:100%;
+}
+#utlogo img
+{
+	max-height:20%;
+	max-width:20%;
+	float:right;
+	margin-right:2%;
+}
+header div
+{
+	width:100%;
+	background-color:#FFF;
+}
+
+#letra
+{
+	height:50%;
+	width:100%;
+}
+
+#letra img
+{
+	margin-left:5%;
+	margin-top:10%;
+	max-height:90%;
+	max-width:90%;
+}
+
+#figura
+{
+	height:50%;
+	width:100%;
+}
+
+#figura img
+{
+	margin-left:15%;
+	margin-top:10%;
+	height:70%;
+	width:70%;
+}
+
+
+
+
+	

@@ -1,0 +1,75 @@
+a {
+	color: #1f8c60;
+}
+a:hover {
+	color: red;    
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #1f8c60;
+}
+.lite1 {
+	color: #1f8c60;
+}
+.lite2 {
+	border-bottom: 1px dotted #1f8c60;
+}
+a.sub {
+	background-color: #1f8c60;
+	color: #fff;
+	-webkit-transition:all 200ms ease-in;
+	-o-transition:all 200ms ease-in;
+	-moz-transition:all 200ms ease-in;
+}
+a.sub:hover {
+	color: #fff;
+	background-color: #4d87ab;
+}
+ul.latest-posts li a:hover {
+	color: #4d87ab;
+    background-color: lightgray;
+    
+}
+.menu ul li a.active {
+	color: #1f8c60;
+    background-color: lightgray;
+}
+.menu ul li a.selected {
+	color: #1f8c60;
+    background-color: lightgray;
+}
+.menu ul li a:hover {
+	color: #1f8c60;
+    background-color: lightgray;
+}
+
+#filtering-nav li.active a {
+	color: #4d87ab;
+}
+.post-meta a:hover, .tags a:hover {
+	color: #4d87ab;
+    background-color: lightgray;
+}
+.tag-list ul li a:hover {
+	color: #4d87ab;
+    background-color: lightgray;
+}
+.cat-list ul li a:hover {
+	color: #4d87ab;
+    background-color: lightgray;
+}
+h2.trigger.active {
+	color: #1f8c60;
+}
+h2.trigger:hover {
+	color: #1f8c60;
+    background-color: lightgray;
+}
+ul.tabs li a:hover {
+	color: #1f8c60;
+    background-color: lightgray;
+}
+ul.tabs li.active a {
+	border: 1px solid #1f8c60;
+	color: #fff;
+	background-color: #1f8c60;
+}
