@@ -180,7 +180,7 @@ include("seguridad.php");
                     d&iacute;a, esta disciplina avanza r&aacute;pidamente, no se conformen con lo que los profesores les 
                     ense&ntilde;an, busquen aprender m&aacute;s a trav&eacute;s de libros, revistas, en internet, 
                     en donde sea necesario para que sean los m&aacute;s competitivos. 
-                    Ustedes son el recurso más valioso que nuestro pa&iacute;s tiene, una fuente inagotable de creatividad 
+                    Ustedes son el recurso m&aacute;s valioso que nuestro pa&iacute;s tiene, una fuente inagotable de creatividad 
                     y entusiasmo, ustedes son lo m&aacute;s valioso en nuestra universidad, ustedes son nuestra raz&oacute;n 
                     de ser: &quot;La mejor Universidad para los mejores alumnos&quot;. 
                     UNIVERSIDAD TECNOL&Oacute;GICA DE SAN JUAN DEL R&Iacute;O.
