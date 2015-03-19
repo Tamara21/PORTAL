@@ -146,7 +146,7 @@ include"seguridad.php";
                 <div class="full-width">
                     <div class="one-third"><img src="style/images/profes/alicia 288.png" alt="" /></div>
                     <div class="two-third last">
-                        <h1>ALICIA CORT&Eacute;S GRAC&Iacute;A</h1>
+                        <h1>ALICIA CORT&Eacute;S GARC&Iacute;A</h1>
 
                         <h2>Grado Profesional</h2>
                         <p>Maestra en Gesti&oacute;n en Tecnolog&iacute;as de la Informaci&oacute;n. (MGTI)</p>
