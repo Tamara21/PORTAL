@@ -164,7 +164,28 @@ include("seguridad.php");
                 <!-- Begin Top Columns -->
                 <h2>MENSAJE DEL DIRECTOR</h2>
                 <div class="two-third">        
-                    <p><span class="dropcap"></span> <img src="style/images/profes/PaginaConstruccion1.png" alt="" /></p>
+                     <p><span class="dropcap"> L</span>as Tecnolog&iacute;as de Informaci&oacte;n (TI) se pueden definir 
+                    como el conjunto de recursos tecnol&oacte;gicos, tanto hardware como software, que proporcionan una 
+                    plataforma para recolectar, procesar, almacenar y distribuir informaci&oacte;n que ayuda a la empresa a 
+                    alcanzar sus objetivos (Lauden &amp; Lauden, 2008). 
+                    Actualmente, las Tecnolog&iacute;as de Informaci&oacte;n se han convertido en pieza fundamental de las 
+                    operaciones diarias en las empresas de todo tipo y tama&ntilde;o, a tal grado que son consideradas como 
+                    un recurso cada vez más cr&iacute;tico para el &eacute;xito de la organizaci&oacute;n. 
+                    En los pr&oacute;ximos años, habr&aacute; tantos empleos en Tecnolog&iacute;as de la Informaci&oacute;n 
+                    que las instituciones de educaci&oacute;n superior tendr&aacute;n impulsar a m&aacute;s j&oacute;venes 
+                    de educaci&oacute;n media superior para que estudien esta disciplina. 
+                    J&oacute;venes estudiantes, su decisi&oacute;n de estudiar Tecnolog&iacute;as de la Informaci&oacute;n y 
+                    Comunicaci&oacute;n es la correcta, les espera un futuro prometedor, prep&aacute;rense d&iacute;a a 
+                    d&iacute;a, esta disciplina avanza r&aacute;pidamente, no se conformen con lo que los profesores les 
+                    ense&ntilde;an, busquen aprender m&aacute;s a trav&eacute;s de libros, revistas, en internet, 
+                    en donde sea necesario para que sean los m&aacute;s competitivos. 
+                    Ustedes son el recurso m&aacute;s valioso que nuestro pa&iacute;s tiene, una fuente inagotable de creatividad 
+                    y entusiasmo, ustedes son lo m&aacute;s valioso en nuestra universidad, ustedes son nuestra raz&oacute;n 
+                    de ser: &quot;La mejor Universidad para los mejores alumnos&quot;. 
+                    UNIVERSIDAD TECNOL&Oacute;GICA DE SAN JUAN DEL R&Iacute;O.
+                    ATENTAMENTE.
+                    M. en A. P. I. Fidencio D&iacute;az M&eacute;ndez
+                </p>
                 </div>  
                 <div class="one-third last">
                     <!--<img src="style/images/profes/Sitio-web-en-construccion.png" alt="" /> -->
